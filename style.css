@@ -1,0 +1,31 @@
+body
+{
+    background-size: cover;
+}
+
+h2
+{
+    font-family: 'Rowdies', cursive;
+}
+
+.heading
+{
+    width: 100%;
+    text-align: left;
+}
+
+.heading h2
+{
+    display: inline;
+}
+
+.heading button
+{
+    float: right;
+    border: 1px solid white;
+}
+
+.canvas
+{
+    box-shadow: 10px 10px 10px grey;
+}
